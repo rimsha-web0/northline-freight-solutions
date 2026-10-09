@@ -1,22 +1,22 @@
 
 export const site = {
-  name: "Northline Freight Solutions LLC",
-  legalName: "Northline Freight Solutions LLC",
-  shortName: "NORTHLINE",
-  tagline: "FREIGHT & LOGISTICS",
-  slogan: "Moving Freight. Building Trust.",
+  name: "WISE CERTIFY LLC",
+  legalName: "WISE CERTIFY LLC",
+  shortName: "WISE CERTIFY",
+  tagline: "PROFESSIONAL SERVICES",
+  slogan: "Professional Service. Trusted Connections.",
 
   description:
     "Professional freight dispatch coordination, transportation support, and logistics communication for growing businesses.",
 
   phone: "+1 (202) 555-0148",
   phoneRaw: "+12025550148",
-  email: "hello@example.com",
+  email: "info@wisecertifyllc.com",
 
-  address: "Dallas, Texas, United States",
-  city: "Dallas",
-  state: "Texas",
-  country: "United States",
+address: "2352 Bear Peak, Minneola, FL 34715, United States",
+city: "Minneola",
+state: "Florida",
+country: "United States",
 
   navigation: [
     { label: "Home", href: "/" },

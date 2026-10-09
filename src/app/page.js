@@ -10,7 +10,7 @@ import TestimonialsSection from "@/components/home/TestimonialsSection";
 import ArticlesSection from "@/components/home/ArticlesSection";
 
 export const metadata = {
-  title: "Home | Northline Freight Solutions",
+  title: "Home | WISE CERTIFY",
   description:
     "Freight dispatch coordination and transportation support.",
 };

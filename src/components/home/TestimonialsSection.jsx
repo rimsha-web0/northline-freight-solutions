@@ -163,7 +163,7 @@ export default function TestimonialsSection() {
                     </p>
 
                     <p className="mt-1 text-[10px] uppercase tracking-[1.5px] text-white/45">
-                      Northline Freight Solutions
+                      WISE CERTIFY
                     </p>
                   </div>
                 </motion.div>

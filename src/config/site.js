@@ -9,8 +9,8 @@ export const site = {
   description:
     "Professional freight dispatch coordination, transportation support, and logistics communication for growing businesses.",
 
-  phone: "+1 (202) 555-0148",
-  phoneRaw: "+12025550148",
+  phone: "(262) 237-2551",
+  phoneRaw: "+12622372551",
   email: "info@wisecertifyllc.com",
 
 address: "2352 Bear Peak, Minneola, FL 34715, United States",
